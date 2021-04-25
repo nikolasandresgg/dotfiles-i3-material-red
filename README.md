@@ -1,8 +1,8 @@
-#[i3] Material Red Dotfiles
+# [i3] Material Red Dotfiles
 
 ![desktop screenshots](screenshots.png)
 
-- WM_: i3-gaps
+- WM: i3-gaps
   - Font: FiraCode Nerd Font Medium/Roboto
   - Notifications: Dunst
   - Launcher: [Rofi (squared red theme)](https://github.com/lr-tech/rofi-themes-collection)
