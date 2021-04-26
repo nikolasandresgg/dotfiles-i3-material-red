@@ -212,7 +212,7 @@ set                     $t10        #0000001A
 set                     $t25        #00000040
 
 #                       BORDER      BG          TEXT        IND         CHILD_BORDER
-client.focused          $accentC    $accentC    $color0     $accentC    $accentC 
+client.focused          $accentC    $accentC    $foreground $accentC    $accentC 
 client.unfocused        $background $background $foreground $background $background
 client.focused_inactive $background $background $foreground $background $background
 client.urgent           $urgentC    $urgentC    $color0     $urgentC    $urgentC

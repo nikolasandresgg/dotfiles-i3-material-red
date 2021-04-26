@@ -1,0 +1,40 @@
+set font                "FiraCode Nerd Font Mono 10"
+set guioptions          shv
+set n-completion-items  4
+set statusbar-basename  true
+set page-padding        8
+
+#######################################
+# Colors                              #
+#######################################
+
+set completion-bg           "#404040"
+set completion-fg           "#eeffff"
+
+set completion-group-bg     "#404040"
+set completion-group-fg     "#eeffff"
+
+set completion-highlight-bg "#f07178"
+set completion-highlight-fg "#eeffff"
+
+set default-bg              "#212121"
+set default-fg              "#eeffff"
+
+set inputbar-bg             "#212121"
+set inputbar-fg             "#eeffff"
+
+set tabbar-bg               "#212121"
+set tabbar-fg               "#eeffff"
+set tabbar-focus-bg         "#f07178"
+set tabbar-focus-fg         "#eeffff"
+
+set statusbar-bg            "#404040"
+set statusbar-fg            "#eeffff"
+
+set highlight-color         "#404040"
+set highlight-active-color  "#ffe585"
+
+set recolor                 true
+set recolor-keephue         true
+set recolor-darkcolor       "#eeffff"
+set recolor-lightcolor      "#2b2b2b"
