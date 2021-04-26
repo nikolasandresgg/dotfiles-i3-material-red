@@ -11,7 +11,7 @@ playlist_disable_highlight_delay    = 2
 message_delay_time                  = 2
 
 # Playlist
-song_list_format                    = "{{%a - %t}|{%f}}{$R%l}"
+song_list_format                    = "{{%a - %t}|{%f}}"
 song_columns_list_format            = "(10)[2]{l} (40)[2]{t|f} (25)[3]{a} (25)[3]{b}"
 now_playing_prefix                  = "$b"
 now_playing_suffix                  = "$/b"
